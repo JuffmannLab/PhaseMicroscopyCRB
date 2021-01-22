@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-@author: Dorian Bouchet - dorianf.bouchet@gmail.com
+@authors: Dorian Bouchet, Jonathan Dong, Dante Maestre and Thomas Juffmann
 """
 
 # =============================================================================
