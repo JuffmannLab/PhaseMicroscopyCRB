@@ -4,7 +4,7 @@
 
 **Fundamental Bounds on the Precision of Classical Phase Microscopes**
 
-Dorian Bouchet, Jonathan Dong, Dante Maestre, Thomas Juffmann
+Dorian Bouchet, Jonathan Dong, Dante Maestre, and Thomas Juffmann
 
 Phys. Rev. Applied 15, 024047 – Published 19 February 2021
 
